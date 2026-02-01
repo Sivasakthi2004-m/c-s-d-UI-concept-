@@ -173,8 +173,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+**Sivasakthi2004-m**
+- GitHub: [@Sivasakthi2004-m](https://github.com/Sivasakthi2004-m)
 
 ## 🙏 Acknowledgments
 
